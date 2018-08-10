@@ -1,2 +1,3 @@
 # HELLO-WORLD
-just to learn about github
+helloo..
+Mahima here. i am new to github and wants to explore more about it.
